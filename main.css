@@ -26,3 +26,8 @@ button {
 body {
   background-color: rgb(196, 216, 255);
 }
+
+ul li {
+  justify-content: center;
+  padding-top: 15px;
+}
