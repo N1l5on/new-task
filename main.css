@@ -30,5 +30,6 @@ body {
 ul li {
   display: flex;
   justify-content: center;
-  padding-top: 15px;
+  padding-top: 10px;
+  text-decoration: line-through;
 }
